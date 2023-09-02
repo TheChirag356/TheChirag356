@@ -1,3 +1,4 @@
+[![MasterHead](https://cdnb.artstation.com/p/assets/images/images/024/252/817/original/ivan-boyko-clouds-morning.gif?1581813503)]
 <h1 align="center">Hi 👋, I'm Chirag Arora</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
